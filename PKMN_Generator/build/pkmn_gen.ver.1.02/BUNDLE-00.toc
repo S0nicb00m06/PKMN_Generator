@@ -1,3 +1,0 @@
-([('pkmn_gen.ver.1.02',
-   '/Users/carlos/Desktop/py4e/Ejercicios/PKMN_Generator/dist/pkmn_gen.ver.1.02',
-   'EXECUTABLE')],)
